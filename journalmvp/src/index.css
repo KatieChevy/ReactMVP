@@ -1,0 +1,50 @@
+*{
+  background-color: rgb(230, 227, 227);
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 0;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h1 {
+  font-family:cursive, 'Lucida Sans';
+  background:#F55A5A;
+  color: white;
+  padding: 30px;
+}
+h2 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-variant:inherit;
+  
+
+
+}
+body {
+  background-color:rgb(248, 251, 251);
+  margin: auto;
+  margin: auto;
+  width: 27%;
+  border: 5px solid rgb(233, 75, 75);
+  padding: 35px;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+/* #picture {
+  display:flex;
+  align-items: center ;
+  justify-content: center;
+
+} */
+.App {
+  display: flexbox;
+  align-items: center;
+}
+
+
+
+ 
